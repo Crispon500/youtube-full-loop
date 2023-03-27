@@ -9,12 +9,12 @@ var player;
 
 function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
-    videoId: 'tPEE9ZwTmy0',
+    videoId: 'EColTNIbOko',
     playerVars: {
       'autoplay': 1,
       'showinfo': 0,
       'controls': 0,
-      playlist: 'tPEE9ZwTmy0,7nnmvuC4NLc',
+      playlist: 'EColTNIbOko,E-lbpHIkaTo',
       'loop': 1,
       'mute': 1,
     },
